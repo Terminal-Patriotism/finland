@@ -1,5 +1,6 @@
 from colorama import Fore
-print(Fore.BLUE+"""
+def main():
+  print(Fore.BLUE+"""
       ▒▒▒▒▒▒▒▒▒▒  ████  ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒    
       ▒▒▒▒▒▒▒▒▒▒  ████  ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒    
       ▒▒▒▒▒▒▒▒▒▒  ████  ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒    
